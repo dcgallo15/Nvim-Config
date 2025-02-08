@@ -1,5 +1,8 @@
 # My Neovim Config
 
+## Plugin Manager:
+- [Vim-Plug](https://github.com/junegunn/vim-plug)
+
 ## Plugins:
 - [COC](https://github.com/neoclide/coc.nvim)
 - [NerdTree](https://github.com/preservim/nerdtree)
