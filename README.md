@@ -22,9 +22,20 @@
 
 ## Dependencies:
 
-- `Ctags` for Tagbar
-- `Npm` for COC
-- `NodeJs` for COC
+- COC
+    - NodeJs >= 16.18.0
+    - Any coc plugin dependencies
+- Tagbar
+    - Ctags
+- FZF
+    - fzf
+- Signify, Gitgutter
+    - git
+- ClangFomat
+    - clang-format
+- Treesitter
+    - gcc or any standard c compiler
+- Markdown Preview
+    - A browser
 - `python3` and `lua`
-- `git`
 - A Nerd font of your choice (for the icons!)
